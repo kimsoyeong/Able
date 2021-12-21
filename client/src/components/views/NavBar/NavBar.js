@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { Drawer, Button } from 'antd';
 import { AlignRightOutlined } from '@ant-design/icons';
 import LeftMenu from './Sections/LeftMenu';
